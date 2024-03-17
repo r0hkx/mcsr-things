@@ -6,11 +6,11 @@
 
 # set your user name. this path may be different on your computer, 
 # please double check that the file exists in the given position
-latest_world_file = "C:\\Users\\Ian\\speedrunigt\\latest_world.json"
+latest_world_file = "C:\\Users\\USER\\speedrunigt\\latest_world.json"
 
 # path to output file. this program will create the file,
 # do not use a preexisting file here or it will get deleted.
-output_file = "C:\\Users\\Ian\\Desktop\\minecraft_speedrun_things\\latest_ee.txt"
+output_file = "C:\\path\\to\\latest_ee.txt"
 
 # text to put before end enter time in output file
 prefix = "latest ee: "
