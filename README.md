@@ -1,2 +1,2 @@
 # mcsr-things
-random things i use in mcsr
+mcsr things i've used or made
