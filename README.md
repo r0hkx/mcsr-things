@@ -1,2 +1,2 @@
-# mcsr_things
+# mcsr-things
 random things i use in mcsr
